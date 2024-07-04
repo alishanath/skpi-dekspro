@@ -1,0 +1,141 @@
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Buffers.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Memory.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\ZstdSharp.dll
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.pdb
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Buffers.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Memory.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsA.C574EB19.Up2Date
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\arif\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\BouncyCastle.Cryptography.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\K4os.Hash.xxHash.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Buffers.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.IO.Pipelines.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Memory.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Numerics.Vectors.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\ZstdSharp.dll
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.pdb
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\K4os.Hash.xxHash.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Buffers.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.IO.Pipelines.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Memory.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Numerics.Vectors.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsA.C574EB19.Up2Date
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+D:\SKPI Dekspro\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.exe
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.pdb
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\WindowsApp3.exe
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\WindowsApp3.pdb
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\WindowsApp3.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\BouncyCastle.Cryptography.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\Google.Protobuf.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\K4os.Compression.LZ4.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\K4os.Hash.xxHash.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\MySql.Data.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Buffers.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.IO.Pipelines.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Memory.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Numerics.Vectors.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\ZstdSharp.dll
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\Google.Protobuf.pdb
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\Google.Protobuf.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\K4os.Compression.LZ4.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\K4os.Hash.xxHash.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\MySql.Data.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Buffers.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.IO.Pipelines.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Memory.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Numerics.Vectors.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+D:\SKPI Dekspro\ujianpraktik\WindowsApp3\obj\Debug\WindowsA.C574EB19.Up2Date

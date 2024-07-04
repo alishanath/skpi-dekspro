@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SKPI Dekspro\\ujianpraktik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|d:\\skpi dekspro\\ujianpraktik\\windowsapp3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|solutionrelative:windowsapp3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|d:\\skpi dekspro\\ujianpraktik\\windowsapp3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|solutionrelative:windowsapp3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|d:\\skpi dekspro\\ujianpraktik\\windowsapp3\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|solutionrelative:windowsapp3\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|d:\\skpi dekspro\\ujianpraktik\\windowsapp3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E5068C6-74F3-4A5F-A03D-835CE1C3CAA0}|WindowsApp3\\WindowsApp3.vbproj|solutionrelative:windowsapp3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsApp3\\Form1.vb",
+              "ToolTip": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form1.vb [Design]",
+              "RelativeToolTip": "WindowsApp3\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-04T15:31:38.095Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form2.vb",
+              "RelativeDocumentMoniker": "WindowsApp3\\Form2.vb",
+              "ToolTip": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form2.vb [Design]",
+              "RelativeToolTip": "WindowsApp3\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-04T15:31:47.116Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form3.vb",
+              "RelativeDocumentMoniker": "WindowsApp3\\Form3.vb",
+              "ToolTip": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form3.vb [Design]",
+              "RelativeToolTip": "WindowsApp3\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-04T15:31:51.133Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsApp3\\Form1.vb",
+              "ToolTip": "D:\\SKPI Dekspro\\ujianpraktik\\WindowsApp3\\Form1.vb",
+              "RelativeToolTip": "WindowsApp3\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-04T15:32:02.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
